@@ -6,8 +6,8 @@
   "author": "GM Tool",
   "action": {
     "title": "Greyhawk Encounters",
-    "icon": "icon.svg",
-    "popover": "index.html",
+    "icon": "https://calibure0s.github.io/Greyhawk-Encounters/icon.svg",
+    "popover": "https://calibure0s.github.io/Greyhawk-Encounters/index.html",
     "width": 480,
     "height": 800
   }
