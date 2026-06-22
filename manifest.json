@@ -1,0 +1,14 @@
+{
+  "name": "Greyhawk Encounters",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "description": "DC20 Greyhawk Gnarley Forest encounter roller, bestiary, and spellbook.",
+  "author": "GM Tool",
+  "action": {
+    "title": "Greyhawk Encounters",
+    "icon": "icon.svg",
+    "popover": "index.html",
+    "width": 480,
+    "height": 800
+  }
+}
